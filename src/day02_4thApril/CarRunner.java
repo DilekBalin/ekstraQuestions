@@ -12,5 +12,7 @@ public class CarRunner {
     //tum variableler publicoldugu icin baska class'tan erisebildik
         //eger private olsaydi baska class'lardan cagiramazdik sadece kendi class'indan cagrilabilir.
 
+
+
     }
 }

@@ -28,6 +28,7 @@ public class Q01 {
                 counter++;
             } else {
                 System.out.println(arr[1 - 1] + " sayisi " + (counter + 1) + " kez kullanilmistir");
+                //counter+1 dememeizin sebebei nce sanki k arakter yokmus gibi 0 dedik eger karakterle karsilasirsa 1 artiracak
                 counter = 0;  //sayaci sifirlammaiz gerekir ki diger karakteri de saymya gecsin
             }
 
